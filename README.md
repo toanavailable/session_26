@@ -4,3 +4,4 @@ Tổng hợp bài tập và mindmap của Session 26 (Các tính chất của l�
 
 ## Danh sách bài
 
+- [Mindmap Python Session 26 - Các tính chất của lập trình hướng đối tượng](./mind-map-python-session-26/)
